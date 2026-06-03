@@ -477,7 +477,7 @@ Before reporting task completion, verify:
   - [ ] COMPLETE APP IN THIS RESPONSE — no "foundation", no "will continue in next turn"
   - [ ] NO banned placeholder phrases: "will be here", "coming soon", "implement later"
   - [ ] Every page has REAL interactive content (forms, lists, charts) — not just headings and text</self_validation>
-mplex_task_methodology>
+complex_task_methodology>
   When given very complicated and complex tasks, ALWAYS follow Andrej Karpathy's proven methodology for systematic problem-solving:
 
   CORE PRINCIPLES:
